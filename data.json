@@ -85,7 +85,7 @@
 			"content": "Este tema se conversará a fondo el proximo semestre."
 		},
 		{
-			"title": "Reajuste de puntajes (“inflar las notas”)",
+			"title": "Reajuste de puntajes (inflar las notas)",
 			"status": "1",
 			"content": "Se habló y están todos de acuerdo que esto no debe pasar. Si esto pasa se debe acusar con el jefe docente (Ochoa), para que se tomen medidas al respecto."
 		},
@@ -100,6 +100,42 @@
 			"content": "Al igual que el punto 18, se verá en el CTD cuando se revisen los cursos."
 		}
 	],
-	"auxiliares": [],
+	"auxiliares": [
+		{
+			"title": "Reglamentación de auxiliares y ayudantes",
+			"status": "4",
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+		},
+		{
+			"title": "Información anticipada de carga",
+			"status": "4",
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+		},
+		{
+			"title": "Encuesta equipo docente",
+			"status": "1",
+			"content": "Los profesores lo ven factible, pero no se aplicará a corto plazo, se debe profundizar más durante el próximo semestre para aplicarlo el 2020."
+		},
+		{
+			"title": "Reglamentar plazos de corrección",
+			"status": "1",
+			"content": "Esto se debe ver en el CTD, aún no lo conversan."
+		},
+		{
+			"title": "Reuniones de equipo docente obligatorias",
+			"status": "1",
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+		},
+		{
+			"title": "Formalizar el cargo de ayudante de laboratorio",
+			"status": "1",
+			"content": "Esto se debe ver en el CTD, aún no lo conversan. Se debe agregar al protocolo que se está desarrollando."
+		},
+		{
+			"title": "Regularizar situaciones de cursos de Plan Común",
+			"status": "1",
+			"content": "Se buscó evidencia de estos casos, hay pocos casos tipificados. El proximo semestre se revisarán los casos para ver si se tomará alguna medida."
+		}
+	],
 	"infraestructura": []
 }
