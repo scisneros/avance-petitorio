@@ -2,7 +2,7 @@
 
 Para editar solo hay que cambiar el archivo data.json.
 
-Los valors posibles de `status` son:
+Los valores posibles de `status` son:
 
 | Cód | Estado |
 | :---: |:-----------:|
