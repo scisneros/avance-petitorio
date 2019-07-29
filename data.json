@@ -58,6 +58,46 @@
 			"title": "Canal de reclamos formales sobre docencia",
 			"status": "4",
 			"content": "Esto existe, pero se debe difundir mejor la información. Los reclamos formalmente deben pasar por Sandra o Angélica, y si no se logra nada, hablar con el jefe docente de turno (Ochoa)"
+		},
+		{
+			"title": "Encuesta Docente departamental",
+			"status": "1",
+			"content": "Industrias tiene su propia encuesta, se verá si se puede pedir ese sistema para adaptarlo al DCC. Realizar una desde cero es muy complicado. CaDCC conversará con el Cein y se verá qué hacer con este punto durante las reuniones del segundo semestre."
+		},
+		{
+			"title": "Discusión de Encuesta Docente",
+			"status": "1",
+			"content": "Se hablará en asamblea de académicos. CaDCC pedirá a alumnos llenar la encuesta a conciencia y los profesores buscarán que los otros académicos se comprometan a analizar los resultados. Ochoa monitorea cada semestre los resultados de las encuestas y habla personalmente con los profesores que tienen problemas, en el DCC no hay ningún profe con malas notas recurrentemente."
+		},
+		{
+			"title": "Feedback evaluaciones",
+			"status": "0",
+			"content": "Este tema se conversará a fondo el proximo semestre."
+		},
+		{
+			"title": "Reducción de 15 minutos en extensión horaria de clases",
+			"status": "4",
+			"content": "Esto se realizará en el DCC a partir del semestre de primavera, pero debido a que el cambio no se realizará en toda la facultad los módulos no se correrán. Ya existe la lista de cursos que acortarán sus clases y esta será publicada a toda la comunidad. Cada profesor decidirá si quitará los 15 minutos del inicio o del final de su clase y debe informar esta decisión en la primera semana de clases."
+		},
+		{
+			"title": "Exámenes de segunda",
+			"status": "0",
+			"content": "Este tema se conversará a fondo el proximo semestre."
+		},
+		{
+			"title": "Reajuste de puntajes (“inflar las notas”)",
+			"status": "1",
+			"content": "Se habló y están todos de acuerdo que esto no debe pasar. Si esto pasa se debe acusar con el jefe docente (Ochoa), para que se tomen medidas al respecto."
+		},
+		{
+			"title": "Revisión de los métodos evaluativos de cada curso en CTD",
+			"status": "1",
+			"content": "Esto se hace en el CTD, hay ramos que han cambiado su formato y cuando pasen por el CTD se formalizarán. Este proceso ya está en marcha pero es un proceso largo (al parecer debe estar listo el 2020 por la acreditación)."
+		}
+		{
+			"title": "Materias evaluadas coherentes con el curso",
+			"status": "1"
+			"content": "Al igual que el punto 18, se verá en el CTD cuando se revisen los cursos."
 		}
 	],
 	"auxiliares": [],
