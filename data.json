@@ -137,5 +137,36 @@
 			"content": "Se buscó evidencia de estos casos, hay pocos casos tipificados. El proximo semestre se revisarán los casos para ver si se tomará alguna medida."
 		}
 	],
-	"infraestructura": []
+	"infraestructura": [
+		{
+			"title": "Abrir salas para estudio",
+			"status": "1",
+			"content": "Se debe encontrar sistema que más acomode a todos. Hay disposición de todos, pero se debe discutir bien, para encontrar protocolo que acomode a profesores y alumnos. Bustos quedará encargado de averiguar sobre este punto, se harán reuniones enfocadas en esto y cuando se tenga una solución se puede implementar inmediatamente, ya que solo se requiere autorización de Bustos."
+		},
+		{
+			"title": "Enchufes para el Laboratorio Toqui",
+			"status": "1",
+			"content": "Hay disposición, aún no se define si se hará solución parche o definitiva. Bustos se encargará de evaluar qué conviene más, ya que hay protocolos que se deben seguir dependiendo de cuál se elija."
+		},
+		{
+			"title": "Software requerido para cursos",
+			"status": "4",
+			"content": "Esto se resuelve fácilmente, ya que solo se debe conversar con sistemas. Es responsabilidad de cada profesor que el software requerido esté disponible en los computadores del DCC o que se tengan las licencias correspondientes. Cuando esto no suceda se debe hablar con el profesor del ramo para que gestione con sistemas, y si no pasa nada acusar con Bustos o Ochoa. No se puede pedir tareas con software licenciado que no esté instalado en el DCC."
+		},
+		{
+			"title": "Reacondicionar espacios del Edificio Poniente",
+			"status": "2",
+			"content": "Toqui rural va a desaparecer y se harán oficinas, ya está en marcha el proyecto (uwu). Espacios de la escalera no están pensados para estudiar y no se modificarán, no hay factibilidad. No se quiere poner sillones, ya que estos son mal usados (duermen, “pololean”, etc). Se buscará solucionar esto con el punto de abrir salas para estudio."
+		},
+		{
+			"title": "Accesibilidad",
+			"status": "1",
+			"content": "No hay viabilidad de poner una rampla entre los edificios, esto ya se había pensado hacer antes. Bustos se comprometerá a ver el tema de la puerta del edificio norte, pero no es un tema urgente."
+		},
+		{
+			"title": "Enfermería y Casino de Facultad",
+			"status": "2",
+			"content": "Es tema de facultad, solo se puede buscar presionar, pero desde el DCC no se puede hacer nada. uwu again."
+		}
+	]
 }
