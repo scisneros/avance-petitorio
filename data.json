@@ -1,0 +1,19 @@
+data = 
+{
+	"carga": [
+		{
+			"title": "Coordinador de ramos",
+			"status": "3",
+			"content": "No habrá “cargo” nuevo, pero sí se hará esta tarea. El semestre de primavera se hará a mano y se planea que posteriormente se haga una solución tecnológica en el ramo ingeniería de software 2. Angelica, Sandra y Ochoa estarán a cargo de esto. Los profesores en semana 1 ya deben tener definidas las fechas de evaluaciones. Máximo en semana 2 debe estar listo el calendario del semestre."
+		},
+		{
+			"title": "Cantidad de tipos de evaluación por ramo",
+			"status": "1",
+			"content": "Caso de Arquitectura, se busca que no vuelva a repetirse, este tema lo hablará el CTD y se hablará en la mesa de trabajo más adelante."
+		}
+	],
+	"salud": [],
+	"docencia": [],
+	"auxiliares": [],
+	"infraestructura": []
+}
