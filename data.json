@@ -7,8 +7,8 @@
 		},
 		{
 			"title": "Cantidad de tipos de evaluación por ramo",
-			"status": "1",
-			"content": "Caso de Arquitectura, se busca que no vuelva a repetirse, este tema lo hablará el CTD y se hablará en la mesa de trabajo más adelante."
+			"status": "0",
+			"content": "Se busca que no vuelvan a repetirse casos como Arquitectura pre-2019, este tema lo hablará el CTD y se hablará en la mesa de trabajo más adelante."
 		},
 		{
 			"title": "Reprobación inmediata por nota única",
@@ -36,7 +36,23 @@
 			"content": "Similar a las tareas, formalmente no existe reglamentación y se puede reglamentar internamente. Se hablará en asamblea de académicos sobre cómo se proseguirá."
 		}
 	],
-	"salud": [],
+	"salud": [
+		{
+			"title": "Psicólogo/a DCC",
+			"status": "3",
+			"content": "No es factible contratar un psicólogo DCC. Bustos propone tener espacio y horario definido para que alguien de Calidad de Vida pueda venir al departamento y atender a la comunidad, Bustos se encargará de investigar si esto se puede hacer. Una medida que se tomará desde el semestre de primavera será tener profesores “tutores”, que tengan horas libres en que puedan orientar al alumnado y ayudarles con temas académicos o no academicos."
+		},
+		{
+			"title": "Capacitaciones en primeros auxilios psicológicos",
+			"status": "4",
+			"content": "Bustos se encargará de contactar a CdV para pedir talleres para el segundo semestre. Se han hecho talleres en el pasado pero no eran obligatorios, de todas maneras estos tenían mucha participación. Se buscará insistir para que la mayor cantidad de profesores asistan, haciendo la convocatoria directamente desde Dirección"
+		},
+		{
+			"title": "Sistema de Alerta Temprana"
+			"status": "1",
+			"content": "Ochoa ha pedido esto y la facultad no le ha dado acceso al sistema, hay mucha burocracia. Los profesores no se pueden comprometer con el cumplimiento de este punto, ya que debe pasar por Facultad. Se hablará el otro semestre sobre cambios que se puedan hacer. Se destaca que actualmente hay una memoria sobre este sistema."
+		}
+	],
 	"docencia": [],
 	"auxiliares": [],
 	"infraestructura": []
