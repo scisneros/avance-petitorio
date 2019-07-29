@@ -53,7 +53,13 @@
 			"content": "Ochoa ha pedido esto y la facultad no le ha dado acceso al sistema, hay mucha burocracia. Los profesores no se pueden comprometer con el cumplimiento de este punto, ya que debe pasar por Facultad. Se hablará el otro semestre sobre cambios que se puedan hacer. Se destaca que actualmente hay una memoria sobre este sistema."
 		}
 	],
-	"docencia": [],
+	"docencia": [
+		{
+			"title": "Canal de reclamos formales sobre docencia",
+			"status": "4",
+			"content": "Esto existe, pero se debe difundir mejor la información. Los reclamos formalmente deben pasar por Sandra o Angélica, y si no se logra nada, hablar con el jefe docente de turno (Ochoa)"
+		}
+	],
 	"auxiliares": [],
 	"infraestructura": []
 }
