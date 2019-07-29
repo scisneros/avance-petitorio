@@ -3,12 +3,37 @@
 		{
 			"title": "Coordinador de ramos",
 			"status": "3",
-			"content": "No habrá “cargo” nuevo, pero sí se hará esta tarea. El semestre de primavera se hará a mano y se planea que posteriormente se haga una solución tecnológica en el ramo ingeniería de software 2. Angelica, Sandra y Ochoa estarán a cargo de esto. Los profesores en semana 1 ya deben tener definidas las fechas de evaluaciones. Máximo en semana 2 debe estar listo el calendario del semestre."
+			"content": "No habrá “cargo” nuevo, pero sí se hará esta tarea. El semestre de primavera se hará a mano y se planea que posteriormente se haga una solución tecnológica en el ramo Ingeniería de Software II. Angélica, Sandra y Ochoa estarán a cargo de esto. Los profesores en semana 1 ya deben tener definidas las fechas de evaluaciones. Máximo en semana 2 debe estar listo el calendario del semestre."
 		},
 		{
 			"title": "Cantidad de tipos de evaluación por ramo",
 			"status": "1",
 			"content": "Caso de Arquitectura, se busca que no vuelva a repetirse, este tema lo hablará el CTD y se hablará en la mesa de trabajo más adelante."
+		},
+		{
+			"title": "Reprobación inmediata por nota única",
+			"status": "0",
+			"content": "Tema que se hablará en el segundo semestre, también debe verse en el CTD."
+		},
+		{
+			"title": "Plazos de tareas",
+			"status": "1",
+			"content": "Sergio Ochoa habló con la Facultad y nosotros como departamento podemos tener protocolos propios sobre tareas. Se planteará el tema en asamblea de académicos y a partir de eso se tratará de formalizar un documento departamental que incluya nuestras peticiones."
+		},
+		{
+			"title": "Inasistencia a controles",
+			"status": "1",
+			"content": "Existe la voluntad para realizar este cambio (este sistema existió en la Facultad por muchos años y varias veces se ha intentado volver a él), pero debemos regirnos por la Escuela. Se hablará en asamblea de académicos y se verá la postura que el DCC llevará al Consejo de Escuela, después se verá si el tema sube a Consejo de Facultad."
+		},
+		{
+			"title": "Controles en semana 15",
+			"status": "4",
+			"content": "Se espera que coordinador de ramos (punto 1) solucione este problema. Se buscará que no haya sobrecarga en semana 14, para que no se tenga que recurrir a aplazar controles a semana 15. Según las reglas esto no debe pasar nunca."
+		},
+		{
+			"title": "Justificaciones médicas para plazos de tareas",
+			"status": "1",
+			"content": "Similar a las tareas, formalmente no existe reglamentación y se puede reglamentar internamente. Se hablará en asamblea de académicos sobre cómo se proseguirá."
 		}
 	],
 	"salud": [],
