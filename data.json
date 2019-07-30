@@ -33,7 +33,7 @@
 
 			"petition": "No pueden fijarse entregas de tareas en días no-hábiles, esto incluyendo: fines de semana, feriados y vacaciones.\nPlazos de entrega de tareas y atrasos deben considerar sólo días hábiles de lunes a viernes. Por ejemplo, una tarea planeada para 14 días corridos deberá tener un plazo que incluya 14 días hábiles, y si ésta considerara atrasos con descuentos diarios, estos descuentos no se aplicarán por días no-hábiles.",
 
-			"content": "Sergio Ochoa habló con la Facultad y nosotros como departamento podemos tener protocolos propios sobre tareas. Se planteará el tema en asamblea de académicos y a partir de eso se tratará de formalizar un documento departamental que incluya nuestras peticiones."
+			"content": "Ochoa habló con la Facultad y nosotros como departamento podemos tener protocolos propios sobre tareas. Se planteará el tema en asamblea de académicos y a partir de eso se tratará de formalizar un documento departamental que incluya nuestras peticiones."
 		},
 
 		{
@@ -67,11 +67,11 @@
 	"salud": [
 		{
 			"title": "Psicólogo/a DCC",
-			"status": "3",
+			"status": "2",
 
 			"petition": "Se exige que haya un/a especialista en psicología disponible para atender gente del departamento en sus instalaciones. Esto considerando la sobredemanda actual en los servicios de Calidad de Vida FCFM y pensando en acercar físicamente la ayuda psicológica.",
 
-			"content": "No es factible contratar un psicólogo DCC. Bustos propone tener espacio y horario definido para que alguien de Calidad de Vida pueda venir al departamento y atender a la comunidad, Bustos se encargará de investigar si esto se puede hacer. Una medida que se tomará desde el semestre de primavera será tener profesores “tutores”, que tengan horas libres en que puedan orientar al alumnado y ayudarles con temas académicos o no académicos."
+			"content": "No es factible contratar un psicólogo DCC."
 		},
 
 		{
@@ -80,7 +80,7 @@
 
 			"petition": "Se exige que docentes y funcionari@s tengan capacitaciones obligatorias en primeros auxilios psicológicos o habilidades afines, para detectar, contener y derivar a las personas que tengan síntomas de problemas de salud mental.",
 			
-			"content": "Bustos se encargará de contactar a CdV para pedir talleres para el segundo semestre. Se han hecho talleres en el pasado, pero no eran obligatorios, de todas maneras estos tenían mucha participación. Se buscará insistir para que la mayor cantidad de profesores asistan, haciendo la convocatoria directamente desde Dirección"
+			"content": "Bustos se encargará de contactar a Calidad de Vida para pedir talleres para el segundo semestre. Se han hecho talleres en el pasado, pero no eran obligatorios, de todas maneras estos tenían mucha participación. Se buscará insistir para que la mayor cantidad de profesores asistan, haciendo la convocatoria directamente desde Dirección"
 		},
 
 		{
@@ -108,7 +108,7 @@
 
 			"petition": "Se pide la confección de una nueva Encuesta Docente, acomodada a la realidad de nuestro departamento y sus necesidades. Esta debe ser construida por el estamento docente y estudiantil, con asesoría de un/a especialista en pedagogía o profesión afín.\nEsta encuesta debe incluir preguntas específicas para que equipos docentes puedan evaluar a su profesor/a y viceversa.\nL@s estudiantes que eliminan el ramo también deben poder responder la encuesta docente, o tener una encuesta específica en la que puedan retroalimentar respecto a su eliminación.",
 			
-			"content": "Industrias tiene su propia encuesta, se verá si se puede pedir ese sistema para adaptarlo al DCC. Realizar una desde cero es muy complicado. CaDCC conversará con el Cein y se verá qué hacer con este punto durante las reuniones del segundo semestre."
+			"content": "Industrias tiene su propia encuesta, se verá si se puede pedir ese sistema para adaptarlo al DCC. Realizar una desde cero es muy complicado. CaDCC conversará con el CEIN y se verá qué hacer con este punto durante las reuniones del segundo semestre."
 		},
 
 		{
@@ -149,7 +149,7 @@
 
 		{
 			"title": "Reajuste de puntajes (inflar las notas)",
-			"status": "1",
+			"status": "4",
 
 			"petition": "En el espíritu de que las evaluaciones reflejen realmente el nivel de la docencia y su evaluación, se exige que no puedan modificarse las notas artificialmente para acomodar las estadísticas del curso. Es decir, no se podrán bajar o subir las notas porque el/la profesor/a considera que los resultados fueron demasiado buenos o malos. De querer hacer reajustes podrán efectuarse de otras formas, como evaluaciones opcionales beneficiosas. Esta prohibición incluye que no se pueda solicitar a ayudantes la recorrección del curso completo con el solo objetivo de reducir/amplificar las notas.\nIncurrir en estas prácticas debe ser causal de denuncia según lo definido en el punto 1 de esta sección.",
 			
@@ -171,7 +171,7 @@
 
 			"petition": "Se exige que cada pregunta de un control o evaluación tenga coherencia con lo enseñado o requerido por el curso. La forma de fiscalizar esto será mediante las denuncias definidas en el punto 1 de esta sección. De haber suficientes reclamos, se le exigirá a el/la profesor/a que explicite cuál es el contenido a evaluar en dicha pregunta, y en qué parte de su curso se trataron dichos contenidos.",
 			
-			"content": "Al igual que el punto 18, se verá en el CTD cuando se revisen los cursos."
+			"content": "Al igual que el punto 8, se verá en el CTD cuando se revisen los cursos."
 		}
 	],
 
@@ -182,7 +182,7 @@
 
 			"petition": "Reglamentar atribuciones, responsabilidades y remuneraciones de auxiliares y ayudantes. Si bien se espera cierta flexibilidad respecto a responsabilidades según el contexto de cada curso, estas nunca pueden llegar a abarcar la toma de control docente total o parcial del ramo, por ejemplo, la confección completa de actividades evaluativas. Los equipos docentes deberán contar con posibilidad de denuncia ante irregularidades en cuanto a la carga asignada, bajo los mismos protocolos del punto 1 de Docencia y Evaluación.",
 			
-			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene se aplicará un protocolo no-formal. Recién a partir del próximo año se tendrá un protocolo formalizado."
 		},
 
 		{
@@ -191,7 +191,7 @@
 
 			"petition": "Se exige que en las postulaciones docentes realizadas por U-Campus se informe apropiadamente las responsabilidades esperadas por cada miembro del equipo y su remuneración, utilizando las descripciones ya implementadas por la plataforma.",
 			
-			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene se aplicará un protocolo no-formal. Recién a partir del próximo año se tendrá un protocolo formalizado."
 		},
 
 		{
@@ -214,11 +214,11 @@
 
 		{
 			"title": "Reuniones de equipo docente obligatorias",
-			"status": "1",
+			"status": "4",
 
 			"petition": "Deben existir reuniones del cuerpo docente, como mínimo una a principio de semestre, para establecer la coordinación del equipo y que se conozcan entre sí.",
 			
-			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene Ochoa aplicará un protocolo informal. Recién a partir del próximo año se tendrá un protocolo formal."
+			"content": "Este tema ya se habló en el CTD y se están formalizando los protocolos. Para el semestre que viene se aplicará un protocolo no-formal. Recién a partir del próximo año se tendrá un protocolo formalizado."
 		},
 
 		{
@@ -247,7 +247,7 @@
 
 			"petition": "Se exige que las salas de reuniones disponibles en el departamento se abran a l@s estudiantes cuando estas no se usen o en horarios establecidos (e.g. salas Flajolet, Ada Lovelace, Grace Hopper, etc). Esto con el compromiso de l@s estudiantes de cuidar la infraestructura y respetar las normas y horarios.",
 			
-			"content": "Se debe encontrar sistema que más acomode a todos. Hay disposición de todos, pero se debe discutir bien, para encontrar protocolo que acomode a profesores y alumnos. Bustos quedará encargado de averiguar sobre este punto, se harán reuniones enfocadas en esto y cuando se tenga una solución se puede implementar inmediatamente, ya que solo se requiere autorización de Bustos."
+			"content": "Se debe encontrar sistema que más acomode a todos. Hay disposición de todos, pero se debe discutir bien, para encontrar protocolo que acomode a profesores y alumnos. Bustos quedará encargado de averiguar sobre este punto, se harán reuniones enfocadas en esto y cuando se tenga una solución se puede implementar inmediatamente, ya que solo se requiere su autorización."
 		},
 
 		{
@@ -265,7 +265,7 @@
 
 			"petition": "Se exige que l@s profesor@s hagan un listado del software que necesitan para sus ramos para que Sistemas lo instale en los computadores de uso estudiantil del departamento. En cursos que requieran software licenciado, esta licencia debe ser entregada por el departamento, ya sea personalmente o en los computadores del edificio.",
 			
-			"content": "Esto se resuelve fácilmente, ya que solo se debe conversar con sistemas. Es responsabilidad de cada profesor que el software requerido esté disponible en los computadores del DCC o que se tengan las licencias correspondientes. Cuando esto no suceda se debe hablar con el profesor del ramo para que gestione con sistemas, y si no pasa nada acusar con Bustos o Ochoa. No se puede pedir tareas con software licenciado que no esté instalado en el DCC."
+			"content": "Esto se resuelve fácilmente, ya que solo se debe conversar con Sistemas. Es responsabilidad de cada profesor que el software requerido esté disponible en los computadores del DCC o que se tengan las licencias correspondientes. Cuando esto no suceda se debe hablar con el profesor del ramo para que gestione con Sistemas, y si no pasa nada acusar con Bustos o Ochoa. No se puede pedir tareas con software licenciado que no esté instalado en el DCC."
 		},
 
 		{
@@ -274,7 +274,7 @@
 
 			"petition": "Se exige un reacondicionamiento de los espacios comunes del 2do y 3er piso del Edificio Poniente. Actualmente estos no son eficientes en el uso del espacio y son incómodos para usos prolongados. Se espera también que tengan una mejor ornamentación general que promueva una sensación agradable del lugar.\nEntendiendo que originalmente estos lugares no fueron pensados como zonas de estudio o de estar, se solicita reevaluar este caracterización dada la realidad actual.",
 			
-			"content": "Toqui rural va a desaparecer y se harán oficinas, ya está en marcha el proyecto (uwu). Espacios de la escalera no están pensados para estudiar y no se modificarán, no hay factibilidad. No se quiere poner sillones, ya que estos son mal usados (duermen, “pololean”, etc). Se buscará solucionar esto con el punto de abrir salas para estudio."
+			"content": "Computadores al lado del Toqui (aka “Toqui rural”) van a desaparecer y se harán oficinas, ya está en marcha el proyecto (uwu). Espacios de la escalera no están pensados para estudiar y no se modificarán, no hay factibilidad. No se quiere poner sillones, ya que estos son mal usados (duermen, “pololean”, etc). Se buscará solucionar esto con el punto de abrir salas para estudio."
 		},
 
 		{
@@ -288,11 +288,11 @@
 
 		{
 			"title": "Enfermería y Casino de Facultad",
-			"status": "2",
+			"status": "4",
 
 			"petition": "Se exige a l@s directiv@s del departamento que se trabaje firmemente en apresurar la ejecución de medidas a nivel de Escuela y Facultad respecto a la infraestructura crucialmente necesaria para el estudiantado. Se espera un compromiso total en cuanto a participación, investigación, recopilación de información y rápida decisión frente a situaciones tan críticas como la falta de alimentación para alumnos becados, espacios de almuerzo y atención de urgencias médicas.",
 			
-			"content": "Es tema de facultad, solo se puede buscar presionar, pero desde el DCC no se puede hacer nada. uwu again."
+			"content": "Es tema de facultad, solo se puede buscar presionar, pero desde el DCC no se puede hacer nada. Se sabía esto al hacer la petición, por eso la exigencia se enfoca en el compromiso a presionar. Dado esto, se declara como acuerdo."
 		}
 	]
 }
