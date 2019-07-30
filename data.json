@@ -294,5 +294,26 @@
 			
 			"content": "Es tema de facultad, solo se puede buscar presionar, pero desde el DCC no se puede hacer nada. uwu again"
 		}
-	]
+	],
+
+	"extra": [
+		{
+			"title": "Tutorías de profesores",
+			"status": "4",
+
+			"content": "Varios profesores se ofrecieron a destinar horarios libres para orientar al alumnado y ayudarles con temas académicos o no academicos. Se derivará a Calidad de Vida en caso de detectar factores de riesgo."
+		},
+		{
+			"title": "Requisito simultáneo SOs -> Redes",
+			"status": "4",
+
+			"content": "Luego de plantearse en la mesa que este requisito no tiene mayores justificaciones y ha generado problemas a más de un/a estudiante, finalmente a partir de Primavera 2019 Redes deja de requerir Sistemas Operativos, pasando a requerir solo Arquitectura de Computadores."
+		},
+		{
+			"title": "Protocolos y tratamiento de solicitudes al CAD/SGD",
+			"status": "1",
+
+			"content": "Se plantearon testimonios de compañer@s sobre los tratos percibidos al realizar solicitudes docentes extraordinarias, alegando falta de tacto, deshumanización y muy poca claridad respecto a los criterios de las decisiones. Ochoa indica que se deben recopilar casos concretos y presentarlos a la Directora de Escuela. Se plantea posibilidad de tratar el tema en el Consejo de Estudiantes de Facultad (CEF)."
+		},
+	],
 }
